@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Edit this is hugo.toml'
+theme = 'book'
