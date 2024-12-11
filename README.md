@@ -2,6 +2,8 @@
 
 This repository contains a Hugo-based documentation site template that's ready to deploy to Cloudflare Pages.
 
+visit this example here https://timsnotes.pages.dev/
+
 ## Quick Start
 
 1. Clone this repository:
