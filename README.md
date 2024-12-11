@@ -151,6 +151,9 @@ Edit `hugo.toml` to change:
 3. Add your content files
 4. Push to GitHub - Cloudflare will automatically deploy changes
 
+## Custom Hostname
+This build uses relative path so custom hostname does work
+
 ## Troubleshooting
 
 ### Common Issues
