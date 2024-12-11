@@ -6,7 +6,7 @@ This repository contains a Hugo-based documentation site template that's ready t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/taslabs-net/timsnotes.git
+git clone https://github.com/taslabs-net/cloudflarepages-hugo.git
 ```
 
 2. Deploy to Cloudflare Pages:
