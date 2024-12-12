@@ -16,7 +16,8 @@ visit this example here https://timsnotes.pages.dev/
    - Use these build settings:
      - Build command: `hugo`
      - Build directory: `public`
-     - Environment variable: `HUGO_VERSION`: `0.139.3`
+     - Environment variable: `HUGO_VERSION` : `0.139.3`
+     - Environment variable: `HUGO_ENV` : `production`
 
 That's it! Your site will be live at `[your-project].pages.dev`
 
