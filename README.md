@@ -6,10 +6,7 @@ visit this example here https://timsnotes.pages.dev/
 
 ## Quick Start
 
-1. Clone this repository:
-```bash
-git clone https://github.com/taslabs-net/cloudflarepages-hugo.git
-```
+1. Fork this repository:
 
 2. Deploy to Cloudflare Pages:
    - Go to Cloudflare Pages
