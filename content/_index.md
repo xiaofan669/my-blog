@@ -15,9 +15,11 @@ git clone https://github.com/taslabs-net/timsnotes.git
    - Choose "Pages"
    - Select your cloned repository that you just made
    - Use these build settings:
+     - Framework Present: `Hugo`
      - Build command: `hugo`
      - Build directory: `public`
      - Environment variable: `HUGO_VERSION`: `0.139.3`
+     - Environment variable: `HUGO_ENV` : `production`
 
 That's it! Your site will be live at `[your-project].pages.dev`
 
