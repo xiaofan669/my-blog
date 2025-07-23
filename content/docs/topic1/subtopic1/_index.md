@@ -1,11 +1,10 @@
 ---
-title: "Subtopic 1.1"
+title: "副标题 1.1"
 description: "Details about Subtopic 1.1"
 ---
 
-## Subtopic 1.1 Content
+## 副标题1.1
 
-Content goes here.
 
 Navigation:
 - [主标题 1](../)
