@@ -8,5 +8,5 @@ description: "Details about Subtopic 1.1"
 Content goes here.
 
 Navigation:
-- [Back to Topic 1](../)
-- [Next: Subtopic 1.2](../subtopic2)
+- [主标题 1](../)
+- [副标题 1.2](../subtopic2)

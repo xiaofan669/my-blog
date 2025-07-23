@@ -1,4 +1,4 @@
 baseURL = '/'
-languageCode = 'en-us'
-title = 'Edit this is hugo.toml'
+languageCode = 'zh-cn'
+title = '小范的博客网站'
 theme = 'book'
