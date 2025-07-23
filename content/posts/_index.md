@@ -1,6 +1,5 @@
 ---
-title: "Welcome to Tim's Notes"
-description: "A collection of my thoughts and learnings"
+title: "我的第一篇文章"
+date: 2025-07-23
 ---
-
-Welcome to my site! Here you'll find various notes about topics I'm interested in.
+欢迎来到我的博客！这里可以写任何内容...
