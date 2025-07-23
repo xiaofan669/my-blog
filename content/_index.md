@@ -1,4 +1,4 @@
-# XiaoFan Homepage(test)
+# XiaoFan's Blog
 
 这是一个博客网站，但它目前还没有更新其他内容，请耐心等待作者更新
 
